@@ -16,6 +16,7 @@
     "construct-style-sheets-polyfill": "3.1.0",
     "date-fns": "2.29.3",
     "lit": "3.2.1",
+    "npm": "^11.5.2",
     "react": "18.3.1",
     "react-dom": "18.3.1",
     "react-router": "7.2.0"
@@ -81,7 +82,7 @@
       "workbox-core": "7.3.0",
       "workbox-precaching": "7.3.0"
     },
-    "hash": "52c71f6eb57bb4b48399dc3d7da6811bbdbe2330f44ba237d44daf611896f12e"
+    "hash": "6700d8f14e4a331292214232523cc8215b3bad7b8923254f593bf82bf3127acd"
   },
   "overrides": {
     "@vaadin/bundles": "$@vaadin/bundles",
@@ -99,6 +100,7 @@
     "@vaadin/vaadin-themable-mixin": "$@vaadin/vaadin-themable-mixin",
     "@vaadin/vaadin-lumo-styles": "$@vaadin/vaadin-lumo-styles",
     "@vaadin/vaadin-material-styles": "$@vaadin/vaadin-material-styles",
-    "react-router": "$react-router"
+    "react-router": "$react-router",
+    "npm": "$npm"
   }
 }
