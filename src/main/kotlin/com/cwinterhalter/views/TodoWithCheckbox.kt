@@ -1,6 +1,6 @@
-package com.dankim.views
+package com.cwinterhalter.views
 
-import com.dankim.db.Todo
+import com.cwinterhalter.db.Todo
 import com.github.mvysny.karibudsl.v10.*
 
 class TodoWithCheckbox(

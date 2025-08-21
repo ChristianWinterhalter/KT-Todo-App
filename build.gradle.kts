@@ -4,7 +4,7 @@ plugins {
     application
 }
 
-group = "com.dankim"
+group = "com.cwinterhalter"
 version = "1.0-SNAPSHOT"
 
 repositories {
@@ -35,5 +35,5 @@ kotlin {
 }
 
 application {
-    mainClass.set("com.dankim.MainKt")
+    mainClass.set("com.cwinterhalter.MainKt")
 }

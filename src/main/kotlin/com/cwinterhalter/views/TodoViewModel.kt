@@ -1,11 +1,11 @@
-package com.dankim.views
+package com.cwinterhalter.views
 
-import com.dankim.database
-import com.dankim.db.Todo
-import com.dankim.db.Todos
-import com.dankim.db.User
-import com.dankim.db.Users
-import com.dankim.util.Observable
+import com.cwinterhalter.database
+import com.cwinterhalter.db.Todo
+import com.cwinterhalter.db.Todos
+import com.cwinterhalter.db.User
+import com.cwinterhalter.db.Users
+import com.cwinterhalter.util.Observable
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.SupervisorJob

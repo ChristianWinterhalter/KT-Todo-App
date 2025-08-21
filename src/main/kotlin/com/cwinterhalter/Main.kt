@@ -1,4 +1,4 @@
-package com.dankim
+package com.cwinterhalter
 
 import com.github.mvysny.vaadinboot.VaadinBoot
 import com.vaadin.flow.component.page.AppShellConfigurator

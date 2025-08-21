@@ -1,7 +1,7 @@
-package com.dankim.views
+package com.cwinterhalter.views
 
-import com.dankim.db.Todo
-import com.dankim.db.User
+import com.cwinterhalter.db.Todo
+import com.cwinterhalter.db.User
 import com.github.mvysny.karibudsl.v10.*
 import com.github.mvysny.kaributools.setPrimary
 import com.vaadin.flow.component.ItemLabelGenerator

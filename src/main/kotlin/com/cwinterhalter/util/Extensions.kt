@@ -1,4 +1,4 @@
-package com.dankim.util
+package com.cwinterhalter.util
 
 import com.vaadin.flow.component.Unit
 import com.vaadin.flow.component.grid.Grid

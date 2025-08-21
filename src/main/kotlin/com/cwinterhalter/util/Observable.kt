@@ -1,4 +1,4 @@
-package com.dankim.util
+package com.cwinterhalter.util
 
 class
 Observable<TType> {
