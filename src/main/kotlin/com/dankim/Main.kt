@@ -10,7 +10,6 @@ import com.vaadin.flow.theme.Theme
 import com.zaxxer.hikari.HikariConfig
 import com.zaxxer.hikari.HikariDataSource
 import org.jetbrains.exposed.sql.Database
-import java.util.TimeZone
 
 @Theme("my-theme")
 @Push(PushMode.AUTOMATIC) // websocket ui updates
@@ -21,7 +20,7 @@ fun main(args: Array<String>) {
 }
 
 val dataSource = HikariDataSource(HikariConfig().apply {
-    jdbcUrl = "jdbc:postgresql://localhost:5432/"
+    jdbcUrl = "jdbc:postgresql://localhost:5432/db-1"
     username = "postgres"
     password = "postgres"
     driverClassName = "org.postgresql.Driver"
